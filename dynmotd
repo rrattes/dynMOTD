@@ -54,6 +54,7 @@ COLOR_VALUE="\e[31m"
 RESET_COLORS="\e[0m"
 
 echo -e "
+*** EQUINIX - AMER MONITORING & TOOLS ***
 ==============================================================================
  ${COLOR_COLUMN}- Hostname${RESET_COLORS}...........: ${COLOR_VALUE} ${HOSTNAME} (${IP}) ${RESET_COLORS}
  ${COLOR_COLUMN}- OS version${RESET_COLORS}.........: ${COLOR_VALUE} ${OS_VERSION} ${RESET_COLORS}
